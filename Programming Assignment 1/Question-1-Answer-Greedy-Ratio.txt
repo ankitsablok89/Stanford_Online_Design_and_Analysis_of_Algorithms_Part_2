@@ -1,0 +1,1 @@
+The minimum weighted sum is : 67311454237
