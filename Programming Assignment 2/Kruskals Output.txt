@@ -1,0 +1,1 @@
+The weight of the minimum spanning tree is : -3612829
